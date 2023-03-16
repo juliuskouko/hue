@@ -18,11 +18,11 @@ function Hero() {
             <img src={left} alt="left" className="w-[100%] h-[100%] z-[5] cover"  />
           </div>
           <div className='flex flex-col justify-center items-center'>
-            <h1 className="text-[45px] flex-1 font-poppins font-semibold dark:text-white lg:text-[52px] text-gray max-w-[670px]  sm:max-w-xl  ">
+            <h1 className="font-normal flex-1 font-poppins font-semibold dark:text-white lg:text-[52px] text-gray max-w-[670px]  sm:max-w-xl  ">
               Connecting people through music... 
             </h1>
 
-            <p className= "mr-10 ml-10 font-poppins font-normal dark:text-white  text-[18px] text-gray leading-[30.8px] max-w-[470px] mt-5">
+            <p className= "mr-2 ml-2 font-poppins font-normal dark:text-white  text-[18px] text-gray leading-[30.8px] max-w-[470px] mt-5">
               Connection through music through a semi permiable membrane
             </p>
             
