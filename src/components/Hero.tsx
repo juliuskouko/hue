@@ -18,7 +18,7 @@ function Hero() {
             <img src={left} alt="left" className="w-[100%] h-[100%] z-[5] cover"  />
           </div>
           <div className='flex flex-col justify-center items-center'>
-            <h1 className="flex-1 font-poppins font-semibold dark:text-white text-[32px] lg:text-[52px] text-gray max-w-[670px]  sm:max-w-xl  ">
+            <h1 className="flex-1 font-poppins font-semibold dark:text-white text-[32px] lg:text-[52pxr] text-gray max-w-[670px]  sm:max-w-xl  ">
               Connecting people through music... 
             </h1>
 
